@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    font-family: "DejaVu Serif";
+    border-collapse: collapse;
+     background-image: url("../images/mustang1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
+h2{
+    text-align: center;
+    color: rgb(2, 49, 149);
+}
+body{
+background-color: #023195;
+}

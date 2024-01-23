@@ -1,0 +1,17 @@
+label{
+    font-family: cursive;
+    font-size: 30px;
+}
+input{
+    font-family: "DejaVu Serif";
+    color: gray;
+}
+body{
+    background-color: #023195;
+}
+h1{
+    font-family: cursive;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
